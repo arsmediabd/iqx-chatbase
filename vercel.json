@@ -1,20 +1,20 @@
 {
-"rewrites": [
-{
-"source": "/help",
-"destination": "https://chatbase.co/ByHE1S7fwZ8gDoajgacwc/help"
-},
-{
-"source": "/help/:path*",
-"destination": "https://chatbase.co/ByHE1S7fwZ8gDoajgacwc/help/:path*"
-},
-{
-"source": "/__cb/:path*",
-"destination": "https://chatbase.co/__cb/:path*"
-},
-{
-"source": "/api/chat/ByHE1S7fwZ8gDoajgacwc/:path*",
-"destination": "https://chatbase.co/api/chat/ByHE1S7fwZ8gDoajgacwc/:path*"
-}
-]
+  "rewrites": [
+    {
+      "source": "/help",
+      "destination": "https://chatbase.co/ByHE1S7fwZ8gDoajgacwc/help"
+    },
+    {
+      "source": "/help/:path*",
+      "destination": "https://chatbase.co/ByHE1S7fwZ8gDoajgacwc/help/:path*"
+    },
+    {
+      "source": "/__cb/:path*",
+      "destination": "https://chatbase.co/__cb/:path*"
+    },
+    {
+      "source": "/api/chat/ByHE1S7fwZ8gDoajgacwc/:path*",
+      "destination": "https://chatbase.co/api/chat/ByHE1S7fwZ8gDoajgacwc/:path*"
+    }
+  ]
 }
