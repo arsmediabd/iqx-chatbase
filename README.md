@@ -1,2 +1,0 @@
-# iqx-chatbase
-IQX Chatbase
